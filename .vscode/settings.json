@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "git.autofetch": true,
+    "editor.fontFamily": "Monaco,  Menlo, 'Courier New', monospace"
+}
