@@ -1,5 +1,6 @@
 # Taps
 tap "homebrew/bundle"
+tap "homebrew/cask"
 tap "homebrew/core"
 
 # Brews
@@ -8,9 +9,13 @@ brew "fish"
 brew "gh"
 brew "git"
 brew "glances"
+brew "jhead"
 brew "mas"
+brew "mono"
 brew "node"
+brew "python@3.8"
 brew "tldr"
+brew "yamllint"
 
 # App Store
 mas "Bear", id: 1091189122
